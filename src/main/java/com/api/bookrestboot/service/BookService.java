@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
 import com.api.bookrestaboot.dao.BookRepository;
 import com.api.bookrestboot.entities.Book;
 
-@Service
 public class BookService {
 	
 	@Autowired
